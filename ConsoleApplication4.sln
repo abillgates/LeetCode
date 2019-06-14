@@ -37,6 +37,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode-23-合并K个排�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-25-K个一组翻转链表", "LeetCode-25-K个一组翻转链表\K个一组翻转链表.vcxproj", "{7E564311-622F-4E7D-9EC1-88C03E6C00A2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-39-组合总和", "LeetCode-39-组合总和\LeetCode-39-组合总和.vcxproj", "{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-40-组合总和II", "LeetCode-40-组合总和II\LeetCode-40-组合总和II.vcxproj", "{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +185,22 @@ Global
 		{7E564311-622F-4E7D-9EC1-88C03E6C00A2}.Release|x64.Build.0 = Release|x64
 		{7E564311-622F-4E7D-9EC1-88C03E6C00A2}.Release|x86.ActiveCfg = Release|Win32
 		{7E564311-622F-4E7D-9EC1-88C03E6C00A2}.Release|x86.Build.0 = Release|Win32
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Debug|x64.ActiveCfg = Debug|x64
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Debug|x64.Build.0 = Debug|x64
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Debug|x86.ActiveCfg = Debug|Win32
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Debug|x86.Build.0 = Debug|Win32
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Release|x64.ActiveCfg = Release|x64
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Release|x64.Build.0 = Release|x64
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Release|x86.ActiveCfg = Release|Win32
+		{62D7F95D-5C7E-45B1-8F71-D94CD65FF544}.Release|x86.Build.0 = Release|Win32
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Debug|x64.ActiveCfg = Debug|x64
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Debug|x64.Build.0 = Debug|x64
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Debug|x86.Build.0 = Debug|Win32
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Release|x64.ActiveCfg = Release|x64
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Release|x64.Build.0 = Release|x64
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Release|x86.ActiveCfg = Release|Win32
+		{A2AD4264-23C6-4679-A1C9-E20B9FD335FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
